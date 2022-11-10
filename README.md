@@ -418,18 +418,23 @@ Equally important as asset names, the directory structure style of a project sho
 			|-- EngineOverrides
 			|-- Game
 		|-- Player
+			|-- Animations
+				|-- ABPs
+				|-- Blendspaces
 			|-- Blueprints
-			|-- Data
-			|-- Components
-			|-- Mannequin
-				|-- Animations
-				|-- Skeleton
-				|-- Rig
+				|-- Data
+				|-- Components
+			|-- Cosmetics
+				|-- Meshes
+				|-- Materials
+				|-- Textures
 			|-- Input
 				|-- Actions
 				|-- Configs
 				|-- Mappings
 				|-- Settings
+			|-- Skeleton
+			|-- Rig
 		|-- UI
 			|-- Credits
 			|-- Foundation
